@@ -1,5 +1,7 @@
 # QA
 
+theory q => [https://chatgpt.com/share/66f29d00-8300-800a-addf-712a0e4fc798]
+
 ## problem on input = [1, 2, 3, 4] output = [24, 12, 8, 6]
 explanation: 2*3*4 = 24
 1*3*4 = 12
